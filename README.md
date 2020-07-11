@@ -1,1 +1,1 @@
-# vue-product
+# vue01-coffee-app
